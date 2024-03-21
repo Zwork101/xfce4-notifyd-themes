@@ -11,24 +11,27 @@
 	<a href="https://github.com/Zwork101/xfce4-notifyd-themes/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/pomotroid?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
+<p align="center">
+	<img src="assets/preview.webp"/>
+</p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://raw.githubusercontent.com/Zwork101/xfce4-notifyd-themes/main/assets/latte.png"/>
+<img src="assets/latte.png"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://raw.githubusercontent.com/Zwork101/xfce4-notifyd-themes/main/assets/frappe.png"/>
+<img src="assets/frappe.png"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://raw.githubusercontent.com/Zwork101/xfce4-notifyd-themes/main/assets/macchiato.png"/>
+<img src="assets/macchiato.png"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://raw.githubusercontent.com/Zwork101/xfce4-notifyd-themes/main/assets/mocha.png"/>
+<img src="assets/mocha.png"/>
 </details>
 
 ## Installation
