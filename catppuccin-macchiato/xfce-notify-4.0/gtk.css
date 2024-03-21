@@ -1,0 +1,35 @@
+#XfceNotifyWindow {
+    background-color: #24273a;
+    border-radius: 5px;
+    border: 1px solid #181926;
+    padding: 20px;
+}
+
+#XfceNotifyWindow:hover {
+    border-width: 2px;
+    border: 1px solid #1e2030;
+}
+
+#XfceNotifyWindow label,
+#XfceNotifyWindow image {
+    color: #cad3f5;
+}
+
+#XfceNotifyWindow label#summary {
+    font-weight: Bold;
+    color: #b8c0e0;
+}
+
+#XfceNotifyWindow button {
+    margin-top: 4px;
+    border: 1px solid #8aadf4;
+    background-image: none;
+    background-color: #363a4f;
+    color: #8aadf4;
+}
+
+#XfceNotifyWindow button:hover {
+    border-color: #eed49f;
+    background-color: #494d64;
+    color: #eed49f;
+}
